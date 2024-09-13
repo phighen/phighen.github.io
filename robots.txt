@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phighen.github.io/sitemap.html.gz
+Sitemap: https://phighen.github.io/app/sitemap.html.gz
+Sitemap: https://phighen.github.io/assets/sitemap.html.gz
+Sitemap: https://phighen.github.io/css/sitemap.html.gz
+Sitemap: https://phighen.github.io/includes/sitemap.html.gz
+Sitemap: https://phighen.github.io/item/sitemap.html.gz
+Sitemap: https://phighen.github.io/src/sitemap.html.gz
